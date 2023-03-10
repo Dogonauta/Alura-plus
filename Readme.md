@@ -4,7 +4,7 @@
     :construction:  Projeto em construção  :construction:
 </h3>
  
-## Site que estou desenvolvendo para praticar oque venho aprendendo com os cursos de programação da alura.
+## Site que estou desenvolvendo para praticar o que venho aprendendo com os cursos de programação da alura.
 
 <br>
 
